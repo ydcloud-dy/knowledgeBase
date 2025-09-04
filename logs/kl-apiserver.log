@@ -1,0 +1,14 @@
+{"level":"info","timestamp":"2025-09-04 13:27:56.147","caller":"apiserver/server.go:34","message":"Read MySQL host from config: ","mysqlAddr：":"127.0.0.1:3306"}
+{"level":"debug","timestamp":"2025-09-04 13:27:56.148","caller":"apiserver/server.go:36","message":"debug logger : mysql.host：","mysqlDsn":"root"}
+{"level":"info","timestamp":"2025-09-04 13:38:00.729","caller":"apiserver/server.go:33","message":"Read MySQL host from config: ","mysqlAddr：":"127.0.0.1:3306"}
+{"level":"debug","timestamp":"2025-09-04 13:38:00.730","caller":"apiserver/server.go:34","message":"debug logger : mysql.host：","mysqlDsn":"root"}
+{"level":"error","timestamp":"2025-09-04 13:38:17.379","caller":"options/mysql_options.go:58","message":"Invalid MySQL port:","mysqlPort":"strconv.Atoi: parsing \"3306sf\": invalid syntax"}
+{"level":"info","timestamp":"2025-09-04 13:49:25.138","caller":"apiserver/server.go:54","message":"Start to listening the incoming requests on http address","addr":""}
+{"level":"info","timestamp":"2025-09-04 13:52:01.610","caller":"apiserver/server.go:54","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
+{"level":"info","timestamp":"2025-09-04 14:04:09.864","caller":"apiserver/server.go:55","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
+{"level":"info","timestamp":"2025-09-04 14:06:58.089","caller":"apiserver/server.go:61","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
+{"level":"info","timestamp":"2025-09-04 14:07:01.410","caller":"slog/logger.go:291","message":"INFO Shutting down server ..."}
+{"level":"info","timestamp":"2025-09-04 14:07:01.410","caller":"apiserver/server.go:86","message":"Server exited"}
+{"level":"info","timestamp":"2025-09-04 14:07:24.241","caller":"apiserver/server.go:61","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
+{"level":"info","timestamp":"2025-09-04 14:07:25.949","caller":"slog/logger.go:291","message":"INFO Shutting down server ..."}
+{"level":"info","timestamp":"2025-09-04 14:07:25.949","caller":"apiserver/server.go:86","message":"Server exited"}
