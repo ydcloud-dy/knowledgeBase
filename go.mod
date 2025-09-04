@@ -7,13 +7,14 @@ require (
 	github.com/go-kratos/kratos/v2 v2.8.4
 	github.com/google/uuid v1.6.0
 	github.com/gosuri/uitable v0.0.4
-	github.com/onexstack/fastgo v1.0.0
+	github.com/jinzhu/copier v0.4.0
 	github.com/onexstack/onexstack v0.0.3
 	github.com/sony/sonyflake v1.3.0
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/pflag v1.0.9
 	github.com/spf13/viper v1.20.1
 	go.uber.org/zap v1.27.0
+	golang.org/x/sync v0.10.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250115164207-1a7da9e5054f
 	google.golang.org/grpc v1.69.4
 	gorm.io/driver/mysql v1.6.0

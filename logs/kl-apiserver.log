@@ -12,3 +12,7 @@
 {"level":"info","timestamp":"2025-09-04 14:07:24.241","caller":"apiserver/server.go:61","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
 {"level":"info","timestamp":"2025-09-04 14:07:25.949","caller":"slog/logger.go:291","message":"INFO Shutting down server ..."}
 {"level":"info","timestamp":"2025-09-04 14:07:25.949","caller":"apiserver/server.go:86","message":"Server exited"}
+{"level":"info","timestamp":"2025-09-04 15:59:25.020","caller":"apiserver/server.go:108","message":"Start to listening the incoming requests on http address","addr":"0.0.0.0:8888"}
+
+{"level":"info","timestamp":"2025-09-04 16:05:42.673","caller":"slog/logger.go:291","message":"INFO Create user function called"}
+{"level":"info","timestamp":"2025-09-04 16:05:51.147","caller":"slog/logger.go:291","message":"INFO Create user function called"}

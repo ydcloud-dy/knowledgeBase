@@ -3,7 +3,7 @@ package conversion
 import (
 	"github.com/jinzhu/copier"
 
-	apiv1 "github.com/onexstack/fastgo/pkg/api/apiserver/v1"
+	apiv1 "github.com/ydcloud-dy/knowledgeBase.git/api/apiserver"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/apiserver/model"
 )
 

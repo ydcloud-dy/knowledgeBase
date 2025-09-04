@@ -6,10 +6,10 @@ import (
 	"sync"
 
 	"github.com/jinzhu/copier"
-	"github.com/onexstack/onexstack/pkg/store/where"
+	"github.com/ydcloud-dy/knowledgeBase.git/pkg/store/where"
 	"golang.org/x/sync/errgroup"
 
-	apiv1 "github.com/onexstack/fastgo/pkg/api/apiserver/v1"
+	apiv1 "github.com/ydcloud-dy/knowledgeBase.git/api/apiserver"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/apiserver/model"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/apiserver/store"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/pkg/conversion"

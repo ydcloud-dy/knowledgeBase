@@ -6,7 +6,7 @@ import (
 	"github.com/jinzhu/copier"
 	"github.com/ydcloud-dy/knowledgeBase.git/pkg/store/where"
 
-	apiv1 "github.com/onexstack/fastgo/pkg/api/apiserver/v1"
+	apiv1 "github.com/ydcloud-dy/knowledgeBase.git/api/apiserver"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/apiserver/model"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/apiserver/store"
 	"github.com/ydcloud-dy/knowledgeBase.git/internal/pkg/contextx"
